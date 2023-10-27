@@ -22,4 +22,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tabs: sslazy/docker-vue-build:latest
+          tags: sslazy/docker-vue-build:latest
